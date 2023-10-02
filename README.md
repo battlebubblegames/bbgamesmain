@@ -1,4 +1,4 @@
 # Battle Bubble Games
-## Website Code & Functionality
+Website Code & Functionality
 
-### Produced by Leading Director Mcauley
+##### Produced by Leading Director Mcauley
